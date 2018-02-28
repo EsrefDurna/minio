@@ -64,6 +64,8 @@ sudo snap connect minio:mount-observe
 sudo snap run minio server /data
 ```
 
+
+
 ## Microsoft Windows
 ### Binary Download
 | Platform| Architecture | URL|
